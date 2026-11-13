@@ -1,0 +1,9 @@
+pandas>=2.2,<3   # PySpark does not fully support pandas 3 yet
+numpy
+scipy
+scikit-learn>=1.4
+duckdb>=1.0
+pyspark>=3.5
+pyarrow>=18      # faster pandas <-> Spark conversion
+matplotlib
+jupyter

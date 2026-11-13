@@ -1,0 +1,9 @@
+.venv/
+.java_home
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+data/*.csv
+spark-warehouse/
+metastore_db/
+derby.log
